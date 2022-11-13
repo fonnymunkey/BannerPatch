@@ -1,0 +1,9 @@
+{
+  "package": "bannerpatch.mixin",
+  "refmap": "refmap.bannerpatch.json",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "TileEntityBannerMixin"
+  ],
+  "minVersion": "0.6"
+}
